@@ -1,0 +1,2 @@
+# Used only on the development machine. Packaging and RouterOS need no PyPI packages.
+pytest>=8.3.5,<10

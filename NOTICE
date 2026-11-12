@@ -1,0 +1,15 @@
+Fastly Hosts RouterOS (FHR) — native RouterOS port, 1.0.0
+
+Upstream: fastly-hosts-adjust, copyright (c) 2026 AFAlimru.
+Reference version: 0.8.3, commit 336e105f71b8fce123d5bfdc9f635b9b8d500d0b.
+Source: https://github.com/AFAlimru/fastly-hosts-adjust
+
+The native RouterOS implementation and project materials are distributed under
+the MIT License in LICENSE, including the upstream and port contributor credits.
+The unmodified upstream license is in licenses/fastly-hosts-adjust-MIT.txt.
+Retain the copyright and permission notices when redistributing the software
+or substantial portions. For a standalone installer download, distribute
+the license with the installer.
+
+This is an independent port. Product and service names identify the systems
+with which it operates. No endorsement is implied.

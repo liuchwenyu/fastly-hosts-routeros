@@ -1,0 +1,5 @@
+:foreach part in={"config";"core"} do={
+    :local name ("FHR." . $part)
+    :local ids [/system script find where name=$name]
+    :put [:len $ids]
+}
